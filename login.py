@@ -1,8 +1,3 @@
-# Jimmy is creating a basic operating system for a school project
-# He is being marked on his user validation system. But has no clue on what to do
-# Help him make a basic validator that takes 3 chances 
-# to input a password correctly and shows the amount of chances left
-
 # Creating a counter for input chances and setting the user password
 counter = 3
 password = "Jimmy"
